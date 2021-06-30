@@ -1,2 +1,2 @@
 # PythonBasic
-Learn Python from basic 
+Learn Python Basic from mini project
