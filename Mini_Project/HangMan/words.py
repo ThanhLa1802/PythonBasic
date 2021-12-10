@@ -1,0 +1,1 @@
+words = ['Thanh', 'DepTrai','ItTien']
